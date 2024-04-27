@@ -1,3 +1,3 @@
 # carta
 
-file:///C:/Users/Dell/Desktop/Matheus/Faculdade/carta.html
+https://matheustd99.github.io/carta/
